@@ -1,0 +1,8 @@
+database:
+  adapter: mysql
+  host: localhost
+  name: cheerio
+  user: root
+  pass: 
+  port: 3306
+  charset: utf8

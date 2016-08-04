@@ -1,0 +1,10 @@
+.cheerio-container {
+  width: 85%;
+}
+
+.cheerio-listing {
+  display: inline-block; 
+  background-color: #E6E6F6; 
+  padding: 10px; 
+  width: 80%;
+}
